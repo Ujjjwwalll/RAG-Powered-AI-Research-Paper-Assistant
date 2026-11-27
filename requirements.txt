@@ -1,0 +1,11 @@
+pymupdf
+pypdf
+python-docx
+pandas
+openpyxl
+sentence-transformers
+chromadb
+langchain-text-splitters
+streamlit
+python-dotenv
+groq
